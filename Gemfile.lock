@@ -110,6 +110,7 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pkg-config (1.1.7)
+    pretty (0.3.2)
     public_suffix (1.5.3)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
@@ -135,7 +136,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (= 3.2.1)
-  minima
+  pretty
 
 RUBY VERSION
    ruby 2.3.1p112
